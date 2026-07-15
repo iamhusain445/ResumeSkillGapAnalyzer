@@ -1,0 +1,5 @@
+Develop a Resume Skill Gap Analyzer using Python, Flask, Machine Learning, Natural Language Processing (NLP), Scikit-learn, Pandas, HTML, CSS, Bootstrap 5, and SQLite3. The application is designed to help students and job seekers evaluate their resumes by comparing their existing skills with the skills required for a target job role.
+
+The system allows users to upload their resume in PDF or DOCX format and select or enter a desired job title (such as Data Scientist, Python Developer, AI/ML Engineer, Full Stack Developer, or Software Engineer). The application extracts text from the resume using document processing libraries and applies Natural Language Processing (NLP) techniques to identify technical skills, programming languages, tools, frameworks, certifications, education, and work experience.
+
+A Machine Learning model analyzes the extracted resume content and compares it with a predefined dataset of job descriptions and required skills. The application identifies missing skills, calculates a skill match percentage, and highlights strengths and weaknesses in the resume.
